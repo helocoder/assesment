@@ -1,0 +1,10 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border: 3px dotted black;
+    width: 300px;
+    height: 100px;
+}
+    
+

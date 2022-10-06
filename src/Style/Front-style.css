@@ -1,0 +1,60 @@
+.lottie-bg{
+position: absolute;
+z-index: -1;
+width: 85%;
+height: 100%;
+left: 0;
+right: 0;
+margin-left:auto ;
+}
+
+.head{
+    color: #fff;
+    font-size: x-large;
+}
+.header{
+
+    background: url('../Assests/wallpaperflare.com_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+   
+    font-size: x-large;
+
+    padding: 10px;
+    margin: 5px;
+}
+.temp{
+    color: gainsboro;
+    margin: 7px;
+}
+.tem-big{
+    font-size: xx-large;
+}
+.footer{
+padding: 10px;
+margin: 5px;
+}
+.foot-row-container{
+   display: flex;
+   flex-direction: row;
+   width: auto;
+   margin: 10px;
+   
+}
+.morning{
+    font-size: xx-large;
+    padding: 10px;
+}
+.aftrenoon{
+    font-size: xx-large;
+    padding: 10px;
+}
+.evening{
+    font-size: xx-large;
+    padding: 10px;
+}
+.overnight{
+    font-size: xx-large;
+    padding: 10px;
+}
