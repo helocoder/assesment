@@ -32,29 +32,67 @@ margin-left:auto ;
     font-size: xx-large;
 }
 .footer{
-padding: 10px;
+padding: 5px;
 margin: 5px;
 }
 .foot-row-container{
    display: flex;
    flex-direction: row;
+   justify-content: center;
+   align-items: center;
    width: auto;
    margin: 10px;
+   padding: 10px;
    
+}
+.footer-tit{
+  font-size: x-large;
+  color:grey;
+  opacity: 90%;
+  text-shadow: black;
+
+}
+.wea-deg{
+    margin-top: -40px;
+    display: flex;
+    justify-self: center;
+
 }
 .morning{
     font-size: xx-large;
-    padding: 10px;
+    padding: 20px;
+    justify-self: center;
+}
+.anim-foot{
+    
+    width: 100px;
+    height: 100px;
+    /* box-shadow: 2px 0 0 0 #888; */
+   
 }
 .aftrenoon{
     font-size: xx-large;
-    padding: 10px;
+    padding: 20px;
+    
+}
+.wea-tit{
+    margin-top: -70px;
 }
 .evening{
     font-size: xx-large;
-    padding: 10px;
+    padding: 20px;
+
 }
 .overnight{
     font-size: xx-large;
-    padding: 10px;
+    padding: 20px;
+
+}
+.up-anim{
+    height: 300px;
+    width: 500px;
+    position: absolute;
+left: 0;
+right: 0;
+margin-left:auto ;
 }
